@@ -12,18 +12,28 @@ Hi 👋, I'm Ronnie. I'm a DevOps engineer and Linux enthusiast who loves solvin
 
 ## Things I Like to Work With
 
-| Systems | | |
-|  :---:  |   :---:   |   :---:   |
-| AWS | Kubernetes | Docker |
-| Datadog | Jenkins | Linux |
-| MongoDB | MySQL | PostgreSQL |
-| Kafka | | |
-
-| Software | | |
-|  :---:  |   :---:   |   :---:   |
-| Python | Node.js | Typescript |
-| Golang | PHP | Shell scripting |
-| Solidity | Web3 | |
+- Systems
+    - AWS
+	- Kubernetes
+	- Docker
+	- Datadog
+	- GitHub
+	- GitLab
+	- Jenkins
+	- Linux
+	- MongoDB
+    - MySQL
+	- PostgreSQL
+	- Kafka
+- Software
+    - Python
+	- Node.js
+	- Typescript
+	- Golang
+	- PHP
+	- Shell scripting
+	- Solidity
+	- Web3
 
 ## Contact Me
 
