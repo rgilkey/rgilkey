@@ -11,14 +11,14 @@ Hi 👋, I'm Ronnie, I'm a DevOps engineer and Linux enthusiast who loves solvin
 
 ## Things I Like to Work With
 
-| Systems |
+| Systems | | |
 |  :---:  |   :---:   |   :---:   |
 | AWS | Kubernetes | Docker |
 | Datadog | Jenkins | Linux |
 | MongoDB | MySQL | PostgreSQL |
 | Kafka | | |
 
-| Software |
+| Software | | |
 |  :---:  |   :---:   |   :---:   |
 | Python | Node.js | Typescript |
 | Golang | PHP | Shell scripting |
