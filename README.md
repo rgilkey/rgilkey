@@ -1,10 +1,11 @@
 [![Header](images/cargoship.jpeg "Header")](https://github.com/rgilkey)
 
-Hi 👋, I'm Ronnie, I'm a DevOps engineer and Linux enthusiast who loves solving challenging problems.
+Hi 👋, I'm Ronnie. I'm a DevOps engineer and Linux enthusiast who loves solving challenging problems.
 
 ## About Me
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Golang**
+- :heart: I love helping folks **ship fast and iterate**
 - 👯 I’m looking to collaborate on **projects that make lives easier**
 - 💬 Ask me about **making things go!**
 
